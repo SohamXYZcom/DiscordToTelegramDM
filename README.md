@@ -1,6 +1,12 @@
 # Discord DM to Telegram Forwarder
 
+---
+
 This project is a Discord selfbot using `discord.js-selfbot-v13` that automatically forwards all private messages (DMs) you receive on Discord to a specified Telegram chat using a Telegram bot.
+
+---
+
+Made by [SohamXYZ](www.sohamxyz.com)
 
 ## ⚠️ IMPORTANT DISCLAIMER
 
