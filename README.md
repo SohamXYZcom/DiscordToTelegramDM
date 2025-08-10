@@ -91,7 +91,6 @@ npm run getChatId
 
 ## Troubleshooting
 
-- If you see "No DMs detected", the bot is working but hasn't received any DMs yet
 - Check that `TELEGRAM_CHAT_ID` is your personal chat ID (positive number), not a bot ID
 - Make sure all three environment variables are filled in `.env`
 - For image sending issues, check the console logs - images may fallback to URLs
